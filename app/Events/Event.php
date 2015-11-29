@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace lara\Events;
 
 abstract class Event
 {

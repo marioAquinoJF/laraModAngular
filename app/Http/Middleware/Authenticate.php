@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace lara\Http\Middleware;
 
 use Closure;
 use Illuminate\Contracts\Auth\Guard;
